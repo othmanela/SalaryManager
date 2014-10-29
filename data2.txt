@@ -1,0 +1,7 @@
+ID	NOM	FONCTION	AGE	SALAIRE
+3	laura	secretaria	25	2100
+6	david	technicien	26	2100
+1	fgsd	gdfr	12	200
+4	sophie	marchandise	32	3000
+2	Thomas	Manager	45	3300
+5	cesar	ingenieur	28	3300

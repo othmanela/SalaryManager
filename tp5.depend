@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1337520868 source:c:\users\toshiba\desktop\tp5firststep\tp5fs\pile.c
+	"pile.h"
+
+1337443215 c:\users\toshiba\desktop\tp5firststep\tp5fs\pile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1339692661 source:c:\users\toshiba\desktop\tp5firststep\tp5fs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+	"pile.h"
+
+1339684165 c:\users\toshiba\desktop\tp5firststep\tp5fs\arbre.h
+	"pile.h"
+
+1340393048 source:c:\users\toshiba\desktop\tp5firststep\tp5fs\arbre.c
+	"arbre.h"
+
+1337520868 source:c:\users\toshiba\desktop\tp5firststep\tp5\pile.c
+	"pile.h"
+
+1337443215 c:\users\toshiba\desktop\tp5firststep\tp5\pile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1340393048 source:c:\users\toshiba\desktop\tp5firststep\tp5\arbre.c
+	"arbre.h"
+
+1339684165 c:\users\toshiba\desktop\tp5firststep\tp5\arbre.h
+	"pile.h"
+
+1340394360 source:c:\users\toshiba\desktop\tp5firststep\tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+	"pile.h"
+
+1340394360 source:c:\users\toshiba\desktop\tp5 benkiran-laousy-quarcia\tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+	"pile.h"
+
+1339684165 c:\users\toshiba\desktop\tp5 benkiran-laousy-quarcia\tp5\arbre.h
+	"pile.h"
+
+1337443215 c:\users\toshiba\desktop\tp5 benkiran-laousy-quarcia\tp5\pile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1337520868 source:c:\users\toshiba\desktop\tp5 benkiran-laousy-quarcia\tp5\pile.c
+	"pile.h"
+
+1340393048 source:c:\users\toshiba\desktop\tp5 benkiran-laousy-quarcia\tp5\arbre.c
+	"arbre.h"
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="arbre.c" open="1" top="0" tabpos="4">
+		<Cursor position="15849" topLine="710" />
+	</File>
+	<File name="arbre.h" open="1" top="0" tabpos="5">
+		<Cursor position="2416" topLine="62" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="120" topLine="145" />
+	</File>
+	<File name="pile.c" open="1" top="0" tabpos="3">
+		<Cursor position="2801" topLine="181" />
+	</File>
+	<File name="pile.h" open="1" top="0" tabpos="2">
+		<Cursor position="1176" topLine="31" />
+	</File>
+</CodeBlocks_layout_file>
